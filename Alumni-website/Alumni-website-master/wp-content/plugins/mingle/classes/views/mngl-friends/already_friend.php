@@ -1,0 +1,1 @@
+<div class="friend-notice col-md-2"><h4 class="fr-notice"><?php _e('F.R.I.E.N.D', 'mingle'); ?></h4></div>

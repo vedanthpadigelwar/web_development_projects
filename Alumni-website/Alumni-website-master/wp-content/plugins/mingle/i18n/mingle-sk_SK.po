@@ -1,0 +1,2064 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mingle 0.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mingle\n"
+"POT-Creation-Date: 2011-10-20 20:45:51+00:00\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: js/mingle.js.php:86
+#@ mingle
+msgid "Are you sure you want to delete this post?"
+msgstr "Naozaj chcete vymazať tento príspevok?"
+
+#: js/mingle.js.php:102
+#@ mingle
+msgid "Are you sure you want to delete this comment?"
+msgstr "Naozaj chcete vymazať tento komentár?"
+
+#: js/mingle.js.php:138
+#@ mingle
+msgid "Are you sure you want to delete this friend?"
+msgstr "Naozaj chcete vymazať tohto priateľa?"
+
+#: js/mingle.js.php:212
+#@ mingle
+msgid "Are you sure you want to delete your avatar?"
+msgstr "Naozaj chcete vymazať tento avatar?"
+
+#: classes/views/mngl-messages/view.php:28
+#: js/mingle.js.php:257
+#: js/mingle.js.php:262
+#@ mingle
+msgid "Loading..."
+msgstr "Načítavam..."
+
+#: js/mingle.js.php:377
+#@ mingle
+msgid "Are you sure you want to delete this message?"
+msgstr "Naozaj chcete vymazať túto správu?"
+
+#: js/mingle.js.php:396
+#@ mingle
+msgid "Are you sure you want to delete these messages?"
+msgstr "Naozaj chcete vymazať tieto správy?"
+
+#: js/mingle.js.php:438
+#@ mingle
+msgid "MM d, yy"
+msgstr "MM d, yy"
+
+#: js/mingle.js.php:441
+#@ mingle
+msgid "0"
+msgstr "0"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "January"
+msgstr "Január"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "February"
+msgstr "Február"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "March"
+msgstr "Marec"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "April"
+msgstr "Apríl"
+
+#: js/mingle.js.php:443
+#: js/mingle.js.php:446
+#@ mingle
+msgid "May"
+msgstr "Máj"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "June"
+msgstr "Jún"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "July"
+msgstr "Júl"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "August"
+msgstr "August"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "September"
+msgstr "September"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "October"
+msgstr "Október"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "November"
+msgstr "November"
+
+#: js/mingle.js.php:443
+#@ mingle
+msgid "December"
+msgstr "December"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Jan"
+msgstr "Jan"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Feb"
+msgstr "Feb"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Mar"
+msgstr "Mar"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Apr"
+msgstr "Apr"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Jun"
+msgstr "Jun"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Jul"
+msgstr "Jul"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Aug"
+msgstr "Aug"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Sept"
+msgstr "Sept"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Oct"
+msgstr "Oct"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Nov"
+msgstr "Nov"
+
+#: js/mingle.js.php:446
+#@ mingle
+msgid "Dec"
+msgstr "Dec"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Sunday"
+msgstr "Nedeľa"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Monday"
+msgstr "Pondelok"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Tuesday"
+msgstr "Utorok"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Wednesday"
+msgstr "Streda"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Thursday"
+msgstr "Štvrtok"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Friday"
+msgstr "Piatok"
+
+#: js/mingle.js.php:448
+#@ mingle
+msgid "Saturday"
+msgstr "Sobota"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Sun"
+msgstr "Ned"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Mon"
+msgstr "Pon"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Tue"
+msgstr "Uto"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Wed"
+msgstr "Str"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Thu"
+msgstr "Štv"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Fri"
+msgstr "Pia"
+
+#: js/mingle.js.php:451
+#@ mingle
+msgid "Sat"
+msgstr "Sob"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Su"
+msgstr "Ne"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Mo"
+msgstr "Po"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Tu"
+msgstr "Ut"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "We"
+msgstr "St"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Th"
+msgstr "Št"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Fr"
+msgstr "Pi"
+
+#: js/mingle.js.php:454
+#@ mingle
+msgid "Sa"
+msgstr "So"
+
+#: js/mingle.js.php:457
+#@ mingle
+msgid "isRTL: false"
+msgstr "isRTL: false"
+
+#: classes/helpers/MnglOptionsHelper.php:13
+#@ mingle
+msgid "- Disable Page -"
+msgstr "- Vypnúť stránku -"
+
+#: classes/helpers/MnglOptionsHelper.php:16
+#@ mingle
+msgid "- Auto Create New Page -"
+msgstr "- Automaticky vytvoriť novú stránku -"
+
+#: classes/helpers/MnglOptionsHelper.php:33
+#: classes/views/mngl-boards/board_post.php:38
+#: classes/views/mngl-boards/board_post.php:77
+#@ mingle
+msgid "View"
+msgstr "Zobraz"
+
+#: classes/helpers/MnglOptionsHelper.php:42
+#@ mingle
+msgid "Full Name"
+msgstr "Celé meno"
+
+#: classes/helpers/MnglOptionsHelper.php:43
+#@ mingle
+msgid "Screen Name"
+msgstr "Zobrazené meno"
+
+#: classes/helpers/MnglOptionsHelper.php:52
+#@ mingle
+msgid "Public"
+msgstr "Verejné"
+
+#: classes/helpers/MnglOptionsHelper.php:53
+#@ mingle
+msgid "Private"
+msgstr "Súkromné"
+
+#: classes/helpers/MnglOptionsHelper.php:54
+#@ mingle
+msgid "Hidden"
+msgstr "Skryté"
+
+#: classes/helpers/MnglOptionsHelper.php:134
+#@ mingle
+msgid "Profile Front Page"
+msgstr "Úvodná stránka profilu"
+
+#: classes/helpers/MnglOptionsHelper.php:142
+#@ mingle
+msgid "Profile Info Tab"
+msgstr "Info o profile"
+
+#: classes/helpers/MnglOptionsHelper.php:149
+#: classes/views/mngl-options/form.php:24
+#@ mingle
+msgid "Profile Edit Page"
+msgstr "Upraviť profil"
+
+#: classes/helpers/MnglOptionsHelper.php:156
+#: classes/views/mngl-options/form.php:50
+#@ mingle
+msgid "Signup Page"
+msgstr "Registračná stránka"
+
+#: classes/helpers/MnglOptionsHelper.php:190
+#@ mingle
+msgid "PHP Mail"
+msgstr "PHP Mail"
+
+#: classes/helpers/MnglOptionsHelper.php:191
+#@ mingle
+msgid "Sendmail"
+msgstr "Sendmail"
+
+#: classes/helpers/MnglOptionsHelper.php:192
+#@ mingle
+msgid "SMTP"
+msgstr "SMTP"
+
+#: classes/helpers/MnglOptionsHelper.php:209
+#@ mingle
+msgid "SSL"
+msgstr "SSL"
+
+#: classes/helpers/MnglOptionsHelper.php:210
+#@ mingle
+msgid "TLS"
+msgstr "TLS"
+
+#: classes/helpers/MnglOptionsHelper.php:260
+#@ mingle
+msgid "Text Input"
+msgstr "Vložiť text"
+
+#: classes/helpers/MnglOptionsHelper.php:261
+#@ mingle
+msgid "Text Area"
+msgstr "Miesto pre text"
+
+#: classes/helpers/MnglOptionsHelper.php:262
+#@ mingle
+msgid "Checkbox"
+msgstr "Zaškrtávacie políčko"
+
+#: classes/helpers/MnglOptionsHelper.php:263
+#@ mingle
+msgid "Dropdown"
+msgstr "Vysúvacie menu"
+
+#: classes/helpers/MnglOptionsHelper.php:264
+#@ mingle
+msgid "Date"
+msgstr "Dátum"
+
+#: classes/helpers/MnglMessagesHelper.php:8
+#@ mingle
+msgid "You"
+msgstr "Vy"
+
+#: classes/helpers/MnglMessagesHelper.php:23
+#@ mingle
+msgid ", "
+msgstr ", "
+
+#: classes/helpers/MnglMessagesHelper.php:25
+#@ mingle
+msgid " and "
+msgstr "a "
+
+#: classes/helpers/MnglMessagesHelper.php:30
+#, php-format
+#@ mingle
+msgid "Between %s"
+msgstr "Medzi %s"
+
+#: classes/helpers/MnglProfileHelper.php:16
+#: classes/models/MnglUser.php:179
+#@ mingle
+msgid "Female"
+msgstr "Žena"
+
+#: classes/helpers/MnglProfileHelper.php:17
+#: classes/models/MnglUser.php:186
+#@ mingle
+msgid "Male"
+msgstr "Muž"
+
+#: classes/helpers/MnglProfileHelper.php:26
+#@ mingle
+msgid "I Want My Profile to Only Be Visible To Me and My Friends"
+msgstr "Chcem, aby bol môj profil viditeľný pre mňa a mojich priateľov"
+
+#: classes/helpers/MnglProfileHelper.php:27
+#@ mingle
+msgid "I Want My Profile to Be Visible To The World"
+msgstr "Chcem, aby bol môj profil viditeľný pre každého"
+
+#: classes/helpers/MnglAppHelper.php:108
+#, php-format
+#@ mingle
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "pred %d sekundami"
+msgstr[1] "pred %d sekundou"
+msgstr[2] "pred %d sekundami"
+
+#: classes/helpers/MnglAppHelper.php:114
+#: classes/helpers/MnglAppHelper.php:120
+#: classes/helpers/MnglAppHelper.php:126
+#: classes/helpers/MnglAppHelper.php:132
+#: classes/helpers/MnglAppHelper.php:138
+#: classes/helpers/MnglAppHelper.php:144
+#: classes/helpers/MnglAppHelper.php:178
+#, php-format, php-format, php-format, php-format, php-format, php-format, php-format
+#@ mingle
+#@ mingle
+#@ mingle
+#@ mingle
+#@ mingle
+#@ mingle
+#@ mingle
+msgid "Powered by %1$sMingle%2$s"
+msgstr "Vytvorené službou %1$sMingle%2$s"
+
+#: classes/helpers/MnglBoardsHelper.php:32
+#@ mingle
+msgid "Read More"
+msgstr "Čítať ďalej"
+
+#: classes/controllers/MnglFriendsController.php:14
+#, php-format
+#@ mingle
+msgid "%1$s is now friends with %2$s"
+msgstr "%1$s sú teraz priatelia s %2$s"
+
+#: classes/controllers/MnglFriendsController.php:167
+#: classes/views/mngl-options/form.php:48
+#: classes/views/mngl-profiles/profile.php:46
+#: classes/views/shared/login_widget.php:16
+#@ mingle
+msgid "Friends"
+msgstr "Priatelia"
+
+#: classes/controllers/MnglAppController.php:46
+#@ mingle
+msgid "Mingle"
+msgstr "Mingle"
+
+#: classes/controllers/MnglAppController.php:47
+#@ mingle
+msgid "Options"
+msgstr "Možnosti"
+
+#: classes/controllers/MnglBoardsController.php:12
+#@ mingle
+msgid "Board Posts"
+msgstr "Príspevky na nástenke"
+
+#: classes/controllers/MnglBoardsController.php:13
+#, php-format
+#@ mingle
+msgid "%1$s posted to %2$s's board"
+msgstr "%1$s napísal/a na nástenku %2$s"
+
+#: classes/controllers/MnglBoardsController.php:15
+#@ mingle
+msgid "Board Comments"
+msgstr "Komentáre na nástenke"
+
+#: classes/controllers/MnglBoardsController.php:16
+#, php-format
+#@ mingle
+msgid "%1$s commented on %2$s's post"
+msgstr "%1$s komentoval príspevok %2$s"
+
+#: classes/controllers/MnglProfilesController.php:12
+#@ mingle
+msgid "Profile Updates"
+msgstr "Aktualizácia profilu"
+
+#: classes/controllers/MnglProfilesController.php:13
+#, php-format
+#@ mingle
+msgid "%1$s updated %2$s profile"
+msgstr "%1$s aktualizoval/a svoj %2$s profil"
+
+#: classes/controllers/MnglHelpController.php:20
+#, php-format
+#@ mingle
+msgid "Mingle must be configured. Go to the %1$sadmin page%2$s to setup your new social network!"
+msgstr "Mingle musíte najprv nastaviť. Choďte do %1$sadmina%2$s pre nastavenie Vašej sociálnej siete!"
+
+#: classes/views/mngl-boards/private.php:1
+#, php-format
+#@ mingle
+msgid "%1$s's profile is only visible to %2$s friends."
+msgstr "%1$s profil vidia len %2$s priatelia"
+
+#: classes/views/mngl-boards/board_post.php:10
+#, php-format
+#@ mingle
+msgid "Posted on %s's Board"
+msgstr "Publikované na nástenke %s"
+
+#: classes/views/mngl-boards/board_post.php:17
+#, php-format
+#@ mingle
+msgid "Post from %s's Board:"
+msgstr "Príspevok z nástenky %s:"
+
+#: classes/views/mngl-boards/board_post.php:35
+#: classes/views/mngl-boards/board_post.php:75
+#: classes/views/mngl-boards/comment_form.php:36
+#@ mingle
+msgid "Comment"
+msgstr "Komentovať"
+
+#: classes/views/mngl-boards/board_comment.php:17
+#: classes/views/mngl-boards/board_post.php:42
+#: classes/views/mngl-boards/board_post.php:80
+#: classes/views/mngl-friends/list.php:54
+#: classes/views/mngl-messages/list.php:9
+#@ mingle
+msgid "Delete"
+msgstr "Vymazať"
+
+#: classes/views/mngl-boards/board_post.php:94
+#, php-format
+#@ mingle
+msgid "Show all %d comments"
+msgstr "Zobraziť všetky %d komentáre"
+
+#: classes/views/mngl-boards/comment_form.php:15
+#@ mingle
+msgid "Write a comment."
+msgstr "Napísať komentár."
+
+#: classes/views/mngl-boards/display.php:5
+#@ mingle
+msgid "Board"
+msgstr "Nástenka"
+
+#: classes/views/mngl-boards/display.php:6
+#@ mingle
+msgid "Info"
+msgstr "Info"
+
+#: classes/views/mngl-boards/display.php:21
+#@ mingle
+msgid "What's on your mind?"
+msgstr "Čo máte na mysli?"
+
+#: classes/views/mngl-boards/display.php:32
+#@ mingle
+msgid "Share"
+msgstr "Zdieľať"
+
+#: classes/views/mngl-boards/display.php:50
+#@ mingle
+msgid "Show Older Posts"
+msgstr "Zobraziť staršie príspevky"
+
+#: classes/views/mngl-boards/display.php:57
+#: classes/views/mngl-profiles/edit.php:11
+#: classes/views/shared/signup_form.php:13
+#@ mingle
+msgid "First Name"
+msgstr "Krstné meno"
+
+#: classes/views/mngl-boards/display.php:63
+#: classes/views/mngl-profiles/edit.php:15
+#: classes/views/shared/signup_form.php:17
+#@ mingle
+msgid "Last Name"
+msgstr "Priezvisko"
+
+#: classes/views/mngl-boards/display.php:69
+#: classes/views/mngl-profiles/edit.php:25
+#: classes/views/shared/signup_form.php:35
+#@ mingle
+msgid "Bio"
+msgstr "O vás"
+
+#: classes/views/mngl-boards/display.php:75
+#: classes/views/mngl-profiles/edit.php:31
+#: classes/views/mngl-profiles/profile.php:39
+#@ mingle
+msgid "Birthday"
+msgstr "Narodeniny"
+
+#: classes/views/mngl-boards/display.php:81
+#: classes/views/mngl-profiles/profile.php:42
+#: classes/views/shared/signup_form.php:23
+#@ mingle
+msgid "Website"
+msgstr "Web"
+
+#: classes/views/mngl-boards/display.php:87
+#: classes/views/mngl-profiles/edit.php:43
+#: classes/views/mngl-profiles/profile.php:36
+#: classes/views/shared/signup_form.php:29
+#@ mingle
+msgid "Location"
+msgstr "Kde sa nachádzate"
+
+#: classes/views/mngl-boards/display.php:93
+#: classes/views/mngl-profiles/edit.php:49
+#: classes/views/mngl-profiles/profile.php:33
+#: classes/views/shared/signup_form.php:41
+#@ mingle
+msgid "Gender"
+msgstr "Pohlavie"
+
+#: classes/views/mngl-options/default_friends_added.php:1
+#@ mingle
+msgid "Default Friends Were Added"
+msgstr "Predvolení priatelia pridaní"
+
+#: classes/views/mngl-options/form.php:2
+#@ mingle
+msgid "Mingle: Options"
+msgstr "Mingle: Nastavenia"
+
+#: classes/views/mngl-options/form.php:9
+#@ mingle
+msgid "Mingle Pages"
+msgstr "Mingle stránky"
+
+#: classes/views/mngl-options/form.php:10
+#, php-format
+#@ mingle
+msgid "Before you can get going with Mingle, you must configure where Mingle pages on your website will appear. You'll want to %1$screate a new page%2$s for each of these pages that mingle needs to work. You should give your page a title and optionally put some content into the page ... just know that once you set the page up here, the page's content will not display."
+msgstr "Predtým než začnete pracovať s Mingle, musíte nastaviť, kde sa budú Mingle stránky zobrazovať. Odporúčame %1$vytvoriť novú stránku%2$s pre každú stránku, ktorú Mingle bude potrebovať pre správne fungovanie. Odporúčame dať stránke nadpis a umiestniť na ňu nejaký obsah... Pamätajte, že ako náhle nastavíte danú stránku, jej obsah sa nebude zobrazovať."
+
+#: classes/views/mngl-options/form.php:13
+#@ mingle
+msgid "Profile Page"
+msgstr "Stránka profilu"
+
+#: classes/views/mngl-options/form.php:15
+#: classes/views/shared/login_widget.php:14
+#@ mingle
+msgid "Profile"
+msgstr "Profil"
+
+#: classes/views/mngl-options/form.php:17
+#@ mingle
+msgid "Activity Page"
+msgstr "Stránka aktivít"
+
+#: classes/views/mngl-options/form.php:19
+#: classes/views/shared/login_widget.php:13
+#@ mingle
+msgid "Activity"
+msgstr "Aktivity"
+
+#: classes/views/mngl-options/form.php:26
+#@ mingle
+msgid "Account"
+msgstr "Účet"
+
+#: classes/views/mngl-options/form.php:28
+#@ mingle
+msgid "Directory Page"
+msgstr "Stránka so zoznamom"
+
+#: classes/views/mngl-options/form.php:30
+#: classes/views/mngl-options/form.php:37
+#: classes/views/shared/login_widget.php:23
+#: classes/views/shared/login_widget.php:58
+#@ mingle
+msgid "Directory"
+msgstr "Zoznam"
+
+#: classes/views/mngl-options/form.php:35
+#@ mingle
+msgid "Friends Page"
+msgstr "Stránka s priateľmi"
+
+#: classes/views/mngl-options/form.php:39
+#@ mingle
+msgid "Login Page"
+msgstr "Prihlasovacia stránka"
+
+#: classes/views/mngl-options/form.php:41
+#: classes/views/shared/unauthorized.php:16
+#@ mingle
+msgid "Login"
+msgstr "Prihlásenie"
+
+#: classes/views/mngl-options/form.php:46
+#@ mingle
+msgid "Friend Requests Page"
+msgstr "Žiadosti o priateľstvo"
+
+#: classes/views/mngl-options/form.php:52
+#@ mingle
+msgid "Signup"
+msgstr "Registrácia"
+
+#: classes/views/mngl-options/form.php:57
+#@ mingle
+msgid "Inbox Page"
+msgstr "Prijaté správy"
+
+#: classes/views/mngl-options/form.php:58
+#: classes/views/shared/login_widget.php:18
+#@ mingle
+msgid "Inbox"
+msgstr "Prijaté"
+
+#: classes/views/mngl-options/form.php:67
+#@ mingle
+msgid "Profile Options"
+msgstr "Nastavenia profilu"
+
+#: classes/views/mngl-options/form.php:69
+#@ mingle
+msgid "Pretty Profile Urls"
+msgstr "Pekné URL v profile"
+
+#: classes/views/mngl-options/form.php:70
+#@ mingle
+msgid "When checked, Pretty Profile Urls will allow users to type their screenname following your site's domain name for their url. Note, if you do not have Apache rewrite functioning and have not selected something other than \"Default\" under your General Permalink settings, this will not work."
+msgstr "Ak je zaškrtnuté, Pekné URL adresy profilu umožnia užívateľom zobraziť ich prezývku za doménovým menom. Pamätajte, že ak nemáte zapnutý na Vašom Apache servri mod_rewrite, a ak nemáte nastavený vlastný vzor trvalých odkazov, táto funkcia Vám nebude fungovať."
+
+#: classes/views/mngl-options/form.php:71
+#@ mingle
+msgid "User Registration Email Spam Protection"
+msgstr "Ochrana proti Spamu pri registrácii"
+
+#: classes/views/mngl-options/form.php:72
+#@ mingle
+msgid "When checked, Mingle will use advanced email lookup techniques to validate the user signup to prevent against user registration spam."
+msgstr "Ak je zaškrtnuté, Mingle bude overovať platnosť emailovej adresy pokročilými metódami, aby tak predišiel spamovej registrácii."
+
+#: classes/views/mngl-options/form.php:73
+#@ mingle
+msgid "Block Robots from Registering as Users"
+msgstr "Nepovoliť sa registrovať robotom v pozícii užívateľa"
+
+#: classes/views/mngl-options/form.php:74
+#@ mingle
+msgid "When checked, Mingle will attempt to identify the user as legitimate or as a robot (computer program) if it's a robot then registration will be prevented."
+msgstr "Ak je zaškrtnuté, Mingle identifikuje užívateľa a vyhodnotí či je človek alebo robot, ak zistí, že je to robot, registrácia mu nebude povolená."
+
+#: classes/views/mngl-options/form.php:75
+#@ mingle
+msgid "Require Captcha On User Signup Page"
+msgstr "Vyžaduje sa kontrolný kód na registračnej stránke"
+
+#: classes/views/mngl-options/form.php:76
+#@ mingle
+msgid "When checked, Mingle will display an image captcha that the user will be required to complete in order to successfully register."
+msgstr "Ak je to zapnuté, užívateľ bude musieť pri registrácii odpísať kód z obrázku."
+
+#: classes/views/mngl-options/form.php:77
+#@ mingle
+msgid "Prevent Subscribers Access to the WordPress Admin"
+msgstr "Zakázať odoberateľom prístup na stránku Wordpress administrácie"
+
+#: classes/views/mngl-options/form.php:78
+#@ mingle
+msgid "When checked, Mingle will redirect non-admin users to their activity page if attempting to go anywhere within /wp-admin."
+msgstr "Ak je zaškrtnuté, Mingle presmeruje NEadminov na ich prislúchajúcu stránku, ak sa pokúsia vstúpiť kdekoľvek v rámci /wp-admin"
+
+#: classes/views/mngl-options/form.php:79
+#@ mingle
+msgid "Show Powered by Mingle link in sidebar"
+msgstr "Zobraziť v bočnom paneli Powered by Mingle"
+
+#: classes/views/mngl-options/form.php:80
+#@ mingle
+msgid "When unchecked, it will remove the Mingle Powered by in sidebar."
+msgstr "Keď je vypnuté, odstráni sa nápis Powered by Mingle z bočného panelu."
+
+#: classes/views/mngl-options/form.php:83
+#@ mingle
+msgid "Default Friends"
+msgstr "Predvolení priatelia"
+
+#: classes/views/mngl-options/form.php:85
+#@ mingle
+msgid "These Users will be added as a friends to all new signups."
+msgstr "Títo užívatelia budú pridaní ako priatelia ku každej novej registrácii."
+
+#: classes/views/mngl-options/form.php:101
+#@ mingle
+msgid "Add a Default Friend"
+msgstr "Pridať predvoleného priateľa"
+
+#: classes/views/mngl-options/form.php:104
+#@ mingle
+msgid "Invisible Users"
+msgstr "Neviditeľní užívatelia"
+
+#: classes/views/mngl-options/form.php:106
+#@ mingle
+msgid "Any users checked below will not be visible to Mingle. They won't have a profile page, friends, be listed in the directory or show up anywhere in mingle."
+msgstr "Žiadny z vybraných užívateľov nebude viditeľný pre Mingle. Nebudú mať profilovú stránku, priateľov a nebudú sa zobrazovať nikde v rámci Minglu."
+
+#: classes/views/mngl-options/form.php:107
+#@ mingle
+msgid "Hold down Control Key (the Command Key if you're on a Mac) or the Shift Key to select multiple users."
+msgstr "Podrže Ctrl (Command klávesu ak ste na Macu) alebo Shift pre zvolenie viac užívateľov naraz."
+
+#: classes/views/mngl-options/form.php:110
+#@ mingle
+msgid "Field Display Options"
+msgstr "Nastavenie zobrazenia poľa"
+
+#: classes/views/mngl-options/form.php:112
+#@ mingle
+msgid "Configure the fields you'd like your users to see, and if they will be able to display them on their profiles. <code>Public</code> indicates that the field will be available to the users and that the value they enter into it will show up on their public profiles. <code>Private</code> indicates that the field will be available to the users but the value they enter into it will not show up on their public profiles. <code>Hidden</code> indicates that this field won't be visible to the users or on their public profiles."
+msgstr "Nastavuje, čo môžu užívatelia zobraziť vo svojich profiloch. <code>Verejný</code> znamená, že ich aktivita bude viditeľná pre každého. <code>Súkromný</code> značí, že zmeny v profile sa prejavia len danému užívateľovi a nezobrazia sa vo verejnom profile. <code>Skrytý</code> v takom prípade to neuvidí nikto."
+
+#: classes/views/mngl-options/form.php:115
+#@ mingle
+msgid "Show Name Fields"
+msgstr "Zobraziť Meno"
+
+#: classes/views/mngl-options/form.php:119
+#@ mingle
+msgid "Show Website Field"
+msgstr "Zobraziť Webstránku"
+
+#: classes/views/mngl-options/form.php:123
+#@ mingle
+msgid "Show Location Field"
+msgstr "Zobraziť Bydlisko"
+
+#: classes/views/mngl-options/form.php:127
+#@ mingle
+msgid "Show Bio Field"
+msgstr "Zobraziť O vás"
+
+#: classes/views/mngl-options/form.php:131
+#@ mingle
+msgid "Show Birthday Field"
+msgstr "Zobraziť dátum narodenia"
+
+#: classes/views/mngl-options/form.php:135
+#@ mingle
+msgid "Show Gender Field"
+msgstr "Zobraziť pohlavie"
+
+#: classes/views/mngl-options/form.php:139
+#@ mingle
+msgid "Show Password Field"
+msgstr "Zobraziť heslo"
+
+#: classes/views/mngl-options/form.php:147
+#@ mingle
+msgid "Mail Options"
+msgstr "Nastavenia pošty"
+
+#: classes/views/mngl-options/form.php:149
+#@ mingle
+msgid "Configure the way mail is sent from Mingle. This setting will affect how all mail throughout WordPress is sent. If your website is hosted on Windows then you'll probably need to set this to SMTP and enter your credentials. <strong>Note:</strong> If your mail already works and you don't know what this setting means then you should probably leave it alone."
+msgstr "Nastavenie, ako sa budú odosielať emaily z Minglu. Ak Váš web beží na Windows servri, pravdepodobne to budete musieť nastaviť na SMTP a overiť údaje.  <strong>Poznámka:</strong> Ak už máte plne fuknčný email, radšej nechajte túto možnosť na pokoji."
+
+#: classes/views/mngl-options/form.php:152
+#@ mingle
+msgid "Sendmail Path"
+msgstr "Sendmail cesta"
+
+#: classes/views/mngl-options/form.php:157
+#@ mingle
+msgid "SMTP Host"
+msgstr "SMTP Hostiteľ"
+
+#: classes/views/mngl-options/form.php:161
+#@ mingle
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: classes/views/mngl-options/form.php:165
+#@ mingle
+msgid "SMTP Encryption"
+msgstr "SMTP Kódovanie"
+
+#: classes/views/mngl-options/form.php:169
+#@ mingle
+msgid "SMTP Username"
+msgstr "SMTP užívateľské meno"
+
+#: classes/views/mngl-options/form.php:173
+#@ mingle
+msgid "SMTP Password"
+msgstr "SMTP heslo"
+
+#: classes/views/mngl-options/form.php:182
+#@ mingle
+msgid "Update Options"
+msgstr "Uložiť zmeny"
+
+#: classes/views/mngl-options/form.php:187
+#@ mingle
+msgid "Add Default Friends to Existing Users"
+msgstr "Pridať predvolených priateľov existujúcim užívateľom"
+
+#: classes/views/mngl-options/custom_fields.php:1
+#@ mingle
+msgid "Custom Fields"
+msgstr "Voliteľné položky"
+
+#: classes/views/mngl-options/options_saved.php:1
+#@ mingle
+msgid "Options saved."
+msgstr "Nastavenia uložené."
+
+#: classes/views/mngl-options/add_custom_field_button.php:1
+#@ mingle
+msgid "Add a Custom Field"
+msgstr "Pridať vlastnú položku"
+
+#: classes/views/mngl-options/add_custom_field_button.php:1
+#@ mingle
+msgid "These fields will be added to each user's profile."
+msgstr "Tieto položky budú pridané do profilu každého užívateľa."
+
+#: classes/views/mngl-options/custom_field.php:6
+#: classes/views/mngl-profiles/profile.php:26
+#@ mingle
+msgid "Name"
+msgstr "Meno"
+
+#: classes/views/mngl-options/custom_field.php:7
+#@ mingle
+msgid "Type"
+msgstr "Napíšte"
+
+#: classes/views/mngl-options/custom_field.php:8
+#@ mingle
+msgid "Default Value"
+msgstr "Predvolená hodnota"
+
+#: classes/views/mngl-options/custom_field.php:9
+#: classes/views/mngl-profiles/edit.php:72
+#@ mingle
+msgid "Privacy"
+msgstr "Súkromie"
+
+#: classes/views/mngl-options/custom_field.php:13
+#@ mingle
+msgid "Show on the Signup Page"
+msgstr "Zobraziť na registračnej stránke"
+
+#: classes/views/mngl-options/default_friend.php:2
+#@ mingle
+msgid "Default Friend"
+msgstr "Predvolený priateľ"
+
+#: classes/views/mngl-options/custom_field_option.php:5
+#@ mingle
+msgid "Label"
+msgstr "Označenie"
+
+#: classes/views/mngl-options/custom_field_option.php:6
+#@ mingle
+msgid "Value"
+msgstr "Hodnota"
+
+#: classes/views/mngl-options/add_custom_field_option_button.php:3
+#@ mingle
+msgid "Add an Option"
+msgstr "Pridať možnosť"
+
+#: classes/views/mngl-options/add_custom_field_option_button.php:4
+#@ mingle
+msgid "These options added to this dropdown."
+msgstr "Nastavenia boli pridané do vysúvacieho menu."
+
+#: classes/views/mngl-messages/list.php:1
+#@ mingle
+msgid "Compose a Message"
+msgstr "Vytvoriť správu"
+
+#: classes/views/mngl-messages/list.php:7
+#@ mingle
+msgid "Mark as Read"
+msgstr "Označiť ako prečítané"
+
+#: classes/views/mngl-messages/list.php:8
+#@ mingle
+msgid "Mark as Unread"
+msgstr "Označiť ako neprečítané"
+
+#: classes/views/mngl-messages/list.php:11
+#@ mingle
+msgid "Apply"
+msgstr "OK"
+
+#: classes/views/mngl-friends/list.php:26
+#: classes/views/mngl-messages/list.php:17
+#: classes/views/mngl-messages/list.php:71
+#: classes/views/mngl-profiles/directory.php:28
+#@ mingle
+msgid "Previous Page"
+msgstr "Predošlá stránka"
+
+#: classes/views/mngl-friends/list.php:70
+#: classes/views/mngl-messages/list.php:24
+#: classes/views/mngl-messages/list.php:78
+#: classes/views/mngl-profiles/directory.php:63
+#@ mingle
+msgid "Next Page"
+msgstr "Ďalšia stránka"
+
+#: classes/views/mngl-messages/list.php:62
+#: classes/views/mngl-messages/view.php:16
+#@ mingle
+msgid "No Messages Were Found"
+msgstr "Žiadne správy sa nenašli"
+
+#: classes/views/mngl-messages/composer.php:8
+#@ mingle
+msgid "Recipients"
+msgstr "Komu"
+
+#: classes/views/mngl-messages/composer.php:14
+#@ mingle
+msgid "Subject"
+msgstr "Predmet"
+
+#: classes/views/mngl-messages/composer.php:18
+#@ mingle
+msgid "Message"
+msgstr "Správa"
+
+#: classes/views/mngl-messages/composer.php:22
+#@ mingle
+msgid "Send"
+msgstr "Poslať"
+
+#: classes/views/mngl-messages/message_sent.php:1
+#@ mingle
+msgid "Message Sent."
+msgstr "Správa odoslaná."
+
+#: classes/views/mngl-messages/view.php:1
+#@ mingle
+msgid "Back to Messages"
+msgstr "Naspäť na správy"
+
+#: classes/views/mngl-messages/view.php:23
+#: classes/views/mngl-messages/view.php:28
+#@ mingle
+msgid "Reply"
+msgstr "Odpovedať"
+
+#: classes/views/mngl-messages/button.php:1
+#, php-format
+#@ mingle
+msgid "Send %s a Message"
+msgstr "Poslať %s správu"
+
+#: classes/views/mngl-custom-fields/edit_fields.php:9
+#@ mingle
+msgid "private"
+msgstr "súkromné"
+
+#: classes/views/mngl-friends/list.php:8
+#, php-format
+#@ mingle
+msgid "%s's Friends"
+msgstr "%s Priatelia"
+
+#: classes/views/mngl-friends/list.php:12
+#@ mingle
+msgid "Search Friends..."
+msgstr "Vyhľadať priateľov"
+
+#: classes/views/mngl-friends/list.php:21
+#: classes/views/mngl-friends/me.php:2
+#, php-format
+#@ mingle
+#@ mingle
+msgid "That's You!"
+msgstr "To ste vy!"
+
+#: classes/views/mngl-friends/me.php:2
+#@ mingle
+msgid "Edit"
+msgstr "Upraviť"
+
+#: classes/views/mngl-friends/no_friends_found.php:1
+#@ mingle
+msgid "Apparently you have no friends ... boo hoo :("
+msgstr "Zjavne nemáte žiadnych priateľov"
+
+#: classes/views/mngl-friends/add_button.php:1
+#: classes/views/mngl-friends/friend_requested.php:1
+#@ mingle
+msgid "Friendship Requested"
+msgstr "Žiadosť o priateľstvo odoslaná"
+
+#: classes/views/mngl-friends/requests.php:16
+#, php-format
+#@ mingle
+msgid "%s wants to be your friend."
+msgstr "%s chce byť Vašim priateľom"
+
+#: classes/views/mngl-friends/requests.php:16
+#@ mingle
+msgid "Accept"
+msgstr "Prijať"
+
+#: classes/views/mngl-friends/requests.php:16
+#@ mingle
+msgid "Ignore"
+msgstr "Ignorovať"
+
+#: classes/views/mngl-friends/requests.php:25
+#@ mingle
+msgid "You don't currently have any friend requests."
+msgstr "Nemáte žiadne žiadosti o priateľstvo"
+
+#: classes/views/mngl-friends/add_button.php:1
+#@ mingle
+msgid "Add as a Friend"
+msgstr "Pridať do priateľov"
+
+#: classes/views/mngl-friends/already_friend.php:1
+#@ mingle
+msgid "Friend"
+msgstr "Priateľ"
+
+#: classes/views/mngl-profiles/edit_avatar.php:3
+#@ mingle
+msgid "delete"
+msgstr "vymazať"
+
+#: classes/views/mngl-profiles/directory.php:13
+#@ mingle
+msgid "Search Users..."
+msgstr "Hľadať užívateľov..."
+
+#: classes/views/mngl-profiles/directory.php:23
+#: classes/views/mngl-profiles/profile_status.php:11
+#, php-format
+#@ mingle
+#@ mingle
+msgid "Clear"
+msgstr "Vyčisti"
+
+#: classes/views/mngl-profiles/profile_saved.php:1
+#@ mingle
+msgid "Your Profile has been saved."
+msgstr "Váš profil bol uložený."
+
+#: classes/views/mngl-profiles/edit.php:7
+#@ mingle
+msgid "Information"
+msgstr "Informácie"
+
+#: classes/views/mngl-profiles/edit.php:20
+#@ mingle
+msgid "Email"
+msgstr "Email"
+
+#: classes/views/mngl-profiles/edit.php:37
+#@ mingle
+msgid "URL"
+msgstr "URL adresa"
+
+#: classes/views/mngl-profiles/edit.php:55
+#: classes/views/mngl-users/reset_password.php:4
+#: classes/views/shared/login_form.php:5
+#: classes/views/shared/login_widget.php:36
+#: classes/views/shared/signup_form.php:47
+#@ mingle
+msgid "Password"
+msgstr "Heslo"
+
+#: classes/views/mngl-profiles/edit.php:59
+#: classes/views/mngl-users/reset_password.php:8
+#: classes/views/shared/signup_form.php:51
+#@ mingle
+msgid "Password Confirmation"
+msgstr "Heslo znovu"
+
+#: classes/views/mngl-profiles/edit.php:64
+#@ mingle
+msgid "Avatar"
+msgstr "Avatar"
+
+#: classes/views/mngl-profiles/edit.php:74
+#@ mingle
+msgid "Notification Settings"
+msgstr "Nastavenia upozornení"
+
+#: classes/views/mngl-profiles/edit.php:82
+#, php-format
+#@ mingle
+msgid "Don't Send Me \"%s\" Notifications"
+msgstr "Neposielať mi \"%s\" upozornenia"
+
+#: classes/views/mngl-profiles/edit.php:89
+#@ mingle
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: classes/views/mngl-users/forgot_password_requested.php:1
+#@ mingle
+msgid "Successfully requested password reset"
+msgstr "Požiadali ste o zmenu hesla"
+
+#: classes/views/mngl-users/forgot_password_requested.php:2
+#@ mingle
+msgid "Please click on the confirmation link that was just sent to your email address."
+msgstr "Prosím, kliknite na odkaz, ktorý sme Vám odoslali v emaile"
+
+#: classes/views/mngl-users/forgot_password.php:1
+#@ mingle
+msgid "Request a Password Reset"
+msgstr "Požiadať o zmenu hesla"
+
+#: classes/views/mngl-users/forgot_password.php:4
+#@ mingle
+msgid "Enter Your Username or Email Address"
+msgstr "Zadajte Vaše užívateľské meno alebo email"
+
+#: classes/views/mngl-users/forgot_password.php:8
+#@ mingle
+msgid "Request Password Reset"
+msgstr "Požiadať o zmenu hesla"
+
+#: classes/views/mngl-users/reset_password.php:1
+#@ mingle
+msgid "Enter your new password"
+msgstr "Napíšte Vaše nové heslo"
+
+#: classes/views/mngl-users/reset_password.php:12
+#@ mingle
+msgid "Reset Password"
+msgstr "Obnoviť heslo"
+
+#: classes/views/mngl-users/signup_thankyou.php:1
+#, php-format
+#@ mingle
+msgid "Thanks for Registering for %s!"
+msgstr "Ďakujeme za registráciu na %s!"
+
+#: classes/views/mngl-users/signup_thankyou.php:1
+#@ mingle
+msgid "You should shortly receive an email with your password."
+msgstr "Za okamih by ste mali dostať email s Vaším novým heslom."
+
+#: classes/views/mngl-users/reset_password_thankyou.php:1
+#@ mingle
+msgid "Password successfully reset"
+msgstr "Heslo úspešne zmenené"
+
+#: classes/views/mngl-users/reset_password_thankyou.php:2
+#@ mingle
+msgid "Your new password has been emailed to you."
+msgstr "Vaše nové heslo Vám bolo poslané na email."
+
+#: classes/views/shared/login_widget.php:15
+#@ mingle
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: classes/views/shared/login_widget.php:17
+#@ mingle
+msgid "Friend Requests"
+msgstr "Žiadosti o priateľstvo"
+
+#: classes/views/shared/login_widget.php:27
+#@ mingle
+msgid "Logout"
+msgstr "Odhlásiť"
+
+#: classes/views/shared/login_widget.php:31
+#, php-format
+#@ mingle
+msgid "Login to connect with Others on %s"
+msgstr "Prihláste sa a spojte sa tak s ostatnými na %s"
+
+#: classes/views/shared/login_form.php:3
+#: classes/views/shared/login_widget.php:34
+#: classes/views/shared/signup_form.php:4
+#@ mingle
+msgid "Username"
+msgstr "Užívateľské meno"
+
+#: classes/views/shared/login_form.php:7
+#: classes/views/shared/login_widget.php:38
+#@ mingle
+msgid "Remember Me"
+msgstr "Zapamätať si ma"
+
+#: classes/views/shared/login_form.php:10
+#: classes/views/shared/login_widget.php:41
+#@ mingle
+msgid "Log In"
+msgstr "Prihlásiť"
+
+#: classes/views/shared/login_form.php:19
+#: classes/views/shared/login_widget.php:50
+#@ mingle
+msgid "Register"
+msgstr "Registrovať"
+
+#: classes/views/shared/login_form.php:23
+#: classes/views/shared/login_widget.php:54
+#@ mingle
+msgid "Lost Password?"
+msgstr "Zabudli ste heslo?"
+
+#: classes/views/shared/signup_form.php:8
+#@ mingle
+msgid "E-mail"
+msgstr "E-mail"
+
+#: classes/views/shared/signup_form.php:55
+#@ mingle
+msgid "A password will be e-mailed to you."
+msgstr "Nové heslo Vám bude zaslané na email."
+
+#: classes/views/shared/signup_form.php:62
+#@ mingle
+msgid "Enter Captcha Text"
+msgstr "Odpíšte kód z obrázku"
+
+#: classes/views/shared/signup_form.php:71
+#@ mingle
+msgid "Sign Up"
+msgstr "Registrovať"
+
+#: classes/views/shared/already_logged_in.php:1
+#, php-format
+#@ mingle
+msgid "You're already logged in. %1$sLogout.%2$s"
+msgstr "Už ste prihlásený. %1$sOdhlásiť sa.%2$s"
+
+#: classes/views/shared/must_configure.php:1
+#, php-format
+#@ mingle
+msgid "Mingle must be configured. Go to the %s to setup your new social network!"
+msgstr "Mingle musíte najprv nastaviť. Navštívte %s pre jeho konfiguráciu."
+
+#: classes/views/shared/must_configure.php:1
+#@ mingle
+msgid "Mingle Admin Page"
+msgstr "Mingle admin stránka"
+
+#: classes/views/shared/unauthorized.php:16
+#, php-format
+#@ mingle
+msgid "You're unauthorized to view this page. Why don't you %s and try again."
+msgstr "Nemáte oprávnenie na prezeranie tejto stránký. Skúste sa %s a skúsiť znova."
+
+#: classes/views/shared/unauthorized.php:18
+#@ mingle
+msgid "Don't have a Login?"
+msgstr "Nemáte prihlasovacie údaje?"
+
+#: classes/views/shared/unauthorized.php:18
+#@ mingle
+msgid "Register for an Account."
+msgstr "Zaregistrovať si účet."
+
+#: classes/views/shared/errors.php:11
+#@ mingle
+msgid "ERROR"
+msgstr "CHYBA"
+
+#: classes/views/shared/user_grid.php:3
+#@ mingle
+msgid "Show All"
+msgstr "Zobraziť všetky"
+
+#: classes/models/MnglUser.php:116
+#@ mingle
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: classes/models/MnglUser.php:176
+#: classes/models/MnglUser.php:177
+#@ mingle
+msgid "Her"
+msgstr "Jej"
+
+#: classes/models/MnglUser.php:178
+#@ mingle
+msgid "She"
+msgstr "Ona"
+
+#: classes/models/MnglUser.php:183
+#@ mingle
+msgid "His"
+msgstr "Jeho"
+
+#: classes/models/MnglUser.php:184
+#@ mingle
+msgid "Him"
+msgstr "Jemu"
+
+#: classes/models/MnglUser.php:185
+#@ mingle
+msgid "He"
+msgstr "On"
+
+#: classes/models/MnglUser.php:190
+#@ mingle
+msgid "His/Her"
+msgstr "Jeho/Jej"
+
+#: classes/models/MnglUser.php:191
+#@ mingle
+msgid "Him/Her"
+msgstr "Jemu/Jej"
+
+#: classes/models/MnglUser.php:192
+#@ mingle
+msgid "He/She"
+msgstr "On/Ona"
+
+#: classes/models/MnglUser.php:193
+#@ mingle
+msgid "Not Available"
+msgstr "Nedostupné"
+
+#: classes/models/MnglUser.php:281
+#@ mingle
+msgid "This site prevents robots from registering and you don't appear to be human. If you're a real person, please contact the administrator of this site."
+msgstr "Táto stránka má ochranu proti registrácii robotov, a nezdá sa mi, že ste človek. Ak ste reálna osoba, prosím kontaktujte administrátora stránky."
+
+#: classes/models/MnglUser.php:284
+#: classes/models/MnglUser.php:335
+#@ mingle
+msgid "Username must not be blank"
+msgstr "Musíte zadať užívateľské meno"
+
+#: classes/models/MnglUser.php:287
+#@ mingle
+msgid "Username must only contain letters, numbers and/or underscores"
+msgstr "Užívateľské meno sa môže skladať z písmen, číslic a podčiarovníkov"
+
+#: classes/models/MnglUser.php:293
+#@ mingle
+msgid "Username is Already Taken."
+msgstr "Užívateľské meno už existuje."
+
+#: classes/models/MnglUser.php:296
+#@ mingle
+msgid "Email must not be blank"
+msgstr "Musíte zadať email"
+
+#: classes/models/MnglUser.php:299
+#@ mingle
+msgid "Email must be a real and properly formatted email address"
+msgstr "Email musí byť platný a napísaný v správnom formáte"
+
+#: classes/models/MnglUser.php:302
+#@ mingle
+msgid "Email Address has already been used by another user."
+msgstr "Tento email sa už používa."
+
+#: classes/models/MnglUser.php:305
+#@ mingle
+msgid "You must select your Gender."
+msgstr "Musíte zadať Vaše pohlavie."
+
+#: classes/models/MnglUser.php:312
+#@ mingle
+msgid "Captcha Image Verification Was Incorrect, Please Try Again"
+msgstr "Nesprávne zadaný kód z obrázku, skúste znova"
+
+#: classes/models/MnglUser.php:318
+#: classes/models/MnglUser.php:380
+#@ mingle
+msgid "You must enter a Password."
+msgstr "Musíte zadať heslo"
+
+#: classes/models/MnglUser.php:321
+#: classes/models/MnglUser.php:383
+#@ mingle
+msgid "You must enter a Password Confirmation."
+msgstr "Musíte zadať heslo dvakrát."
+
+#: classes/models/MnglUser.php:324
+#: classes/models/MnglUser.php:386
+#@ mingle
+msgid "Your Password and Password Confirmation don't match."
+msgstr "Vaše heslá sa nezhodujú."
+
+#: classes/models/MnglUser.php:341
+#@ mingle
+msgid "Username was not found"
+msgstr "Užívateľské meno nenájdené"
+
+#: classes/models/MnglUser.php:348
+#@ mingle
+msgid "Your Password was Incorrect"
+msgstr "Nesprávne zadané heslo"
+
+#: classes/models/MnglUser.php:359
+#@ mingle
+msgid "You must enter a Username or Password"
+msgstr "Musíte zadať meno a heslo"
+
+#: classes/models/MnglUser.php:369
+#@ mingle
+msgid "That Username or Email wasn't found."
+msgstr "Meno alebo Email je nesprávny"
+
+#: classes/models/MnglUser.php:397
+#@ mingle
+msgid "Password Must Match Password Confirmation."
+msgstr "Heslá sa musia zhodovať"
+
+#: classes/models/MnglUser.php:406
+#@ mingle
+msgid "Your Avatar wasn't able to be saved."
+msgstr "Váš avatar sa nepodarilo uložiť"
+
+#: classes/models/MnglUser.php:415
+#@ mingle
+msgid "Your Avatar must be a valid jpg, gif or png."
+msgstr "Avatar musí byť vo formáte .jpg .gif alebo .png"
+
+#. translators: In this string, %s is the Blog Name/Title
+#: classes/models/MnglUser.php:966
+#, php-format
+#@ mingle
+msgid "[%s] New User Registration"
+msgstr "[%s] Nová registrácia užívateľa"
+
+#. translators: In this string, %1$s is the blog's name/title, %2$s is the user's real name, %3$s is the user's username, %4$s is the user's email, and %5$s is the user's profile url
+#: classes/models/MnglUser.php:969
+#, php-format
+#@ mingle
+msgid ""
+"A new user just joined your community at %1$s!\n"
+"\n"
+"Name: %2$s\n"
+"Username: %3$s\n"
+"E-Mail: %4$s\n"
+"\n"
+"You can view this user's profile here: %5$s"
+msgstr ""
+"Do komunity sa zaregistroval sa nový člen %1$s!\n"
+"\n"
+"Meno: %2$s\n"
+"Užívateľské meno: %3$s\n"
+"E-Mail: %4$s\n"
+"\n"
+"Profil si môžete pozrieť tu: %5$s"
+
+#: classes/models/MnglUser.php:971
+#, php-format
+#@ mingle
+msgid "There are now %1$s Users on %2$s"
+msgstr "Práve sú %1$s užívatelia na %2$s"
+
+#. translators: In this string, %s is the Blog Name/Title
+#: classes/models/MnglUser.php:982
+#, php-format
+#@ mingle
+msgid "Welcome to %s!"
+msgstr "Vitajte na %s!"
+
+#. translators: In this string, %1$s is the user's first name, %2$s is the blog's name/title, %3$s is the user's username, %4$s is the user's password, and %5$s is the blog's URL...
+#: classes/models/MnglUser.php:985
+#, php-format
+#@ mingle
+msgid ""
+"%1$s,\n"
+"Welcome to the Community at %2$s!\n"
+"\n"
+"Username: %3$s\n"
+"Password: %4$s\n"
+"You can login here: %5$s\n"
+"\n"
+"Enjoy!\n"
+"\n"
+"%2$s Team"
+msgstr ""
+"Vitajte v komunite %2$s!\n"
+"\n"
+"Meno %3$s\n"
+"Heslo:  %4$s\n"
+"Môžte sa prihlásiť tu: %5$s\n"
+"\n"
+"Užite si to!\n"
+"\n"
+"%2$s tím"
+
+#. translators: In this string, %s is the Blog Name/Title
+#: classes/models/MnglUser.php:1016
+#, php-format
+#@ mingle
+msgid "[%s] Password Reset"
+msgstr "[%s] Reset hesla"
+
+#. translators: In this string, %1$s is the user's username, %2$s is the blog's name/title, %3$s is the blog's url, %4$s the reset password link
+#: classes/models/MnglUser.php:1019
+#, php-format
+#@ mingle
+msgid ""
+"Someone requested to reset your password for %1$s on %2$s at %3$s\n"
+"\n"
+"To reset your password visit the following address, otherwise just ignore this email and nothing will happen.\n"
+"\n"
+"%4$s"
+msgstr ""
+"Niekto požiadal o zmenu Vášho hesla pre %1$s na %2$s v %3$s\n"
+"\\Pre reset hesla navštívte nasledovnú adresu, alebo proste ignorujte tento email.\n"
+"\n"
+"%4$s"
+
+#. translators: In this string, %s is the Blog Name/Title
+#: classes/models/MnglUser.php:1045
+#, php-format
+#@ mingle
+msgid "[%s] Password Lost/Changed"
+msgstr "[%s] Stratené/zmenené heslo"
+
+#. translators: In this string, %1$s is the user's screenname and %2$s is their profile url
+#: classes/models/MnglUser.php:1048
+#, php-format
+#@ mingle
+msgid ""
+"Password Lost and Changed for user: %1$s\n"
+"You can view %1$s's profile here: %2$s"
+msgstr "Heslo bolo zmenené pre užívateľa: %1$s\\Môžete si pozrieť %1$s profil tu: %2$s"
+
+#. translators: In this string, %s is the Blog Name/Title
+#: classes/models/MnglUser.php:1061
+#, php-format
+#@ mingle
+msgid "[%s] Your new password"
+msgstr "[%s] Vaše nové heslo"
+
+#. translators: In this string, %1$s is the user's first name, %2$s is the blog's name/title, %3$s is the user's username, %4$s is the user's password, and %5$s is the blog's URL...
+#: classes/models/MnglUser.php:1064
+#, php-format
+#@ mingle
+msgid ""
+"%1$s,\n"
+"\n"
+"Your Password was successfully reset on %2$s!\n"
+"\n"
+"Username: %3$s\n"
+"Password: %4$s\n"
+"\n"
+"You can login here: %5$s"
+msgstr ""
+"%1$s,\n"
+"\n"
+"Vaše heslo bolo úspešne zmenené na %2$s!\n"
+"\n"
+"Meno: %3$s\n"
+"Heslo: %4$s\n"
+"\n"
+"Môžte sa prihlásiť tu: %5$s"
+
+#: classes/models/MnglNotification.php:11
+#@ mingle
+msgid "Friendship Request"
+msgstr "Žiadosť o priateľstvo"
+
+#: classes/models/MnglNotification.php:12
+#@ mingle
+msgid "Sent when someone requests you as a friend"
+msgstr "Pošle sa, ked Vás niekto požiada o priateľstvo"
+
+#: classes/models/MnglNotification.php:13
+#@ mingle
+msgid "Friendship Verification"
+msgstr "Potvrdenie priateľstva"
+
+#: classes/models/MnglNotification.php:14
+#@ mingle
+msgid "Sent when a friendship has been confirmed"
+msgstr "Odošle sa, keď je priateľstvo potvrdené"
+
+#: classes/models/MnglNotification.php:15
+#@ mingle
+msgid "Board Post"
+msgstr "Nástenka"
+
+#: classes/models/MnglNotification.php:16
+#@ mingle
+msgid "Sent when someone posts to your Board"
+msgstr "Odošle sa, keď niekto napíše na Vašu nástenku"
+
+#: classes/models/MnglNotification.php:17
+#@ mingle
+msgid "Board Comment"
+msgstr "Komentár na nástenke"
+
+#: classes/models/MnglNotification.php:18
+#@ mingle
+msgid "Sent when someone posts to one of your Board Posts or on a comment thread that you've participated in"
+msgstr "Keď niekto komentuje v tých príspevkoch, v ktorých diskutujete."
+
+#: classes/models/MnglNotification.php:19
+#@ mingle
+msgid "Tagged In a Post"
+msgstr "Označený v príspevku"
+
+#: classes/models/MnglNotification.php:20
+#@ mingle
+msgid "Sent when someone tags you in a Board post"
+msgstr "Keď Vás niekto označí na nástenke"
+
+#: classes/models/MnglNotification.php:22
+#@ mingle
+msgid "Tagged In a Comment"
+msgstr "Označený v komentári"
+
+#: classes/models/MnglNotification.php:23
+#@ mingle
+msgid "Sent when someone tags you in a Board comment"
+msgstr "Keď Vás niekto označí na nástenke v komentrári"
+
+#: classes/models/MnglNotification.php:41
+#, php-format
+#@ mingle
+msgid "%1$s has requested you as a friend on %2$s!"
+msgstr "%1$s Vám odoslal žiadosť o priateľstvo na %2$s!"
+
+#: classes/models/MnglNotification.php:42
+#, php-format
+#@ mingle
+msgid "Please visit %s to Accept or Ignore this request."
+msgstr "Navštívte %s pre zrušenie alebo prijatie žiadosti."
+
+#: classes/models/MnglNotification.php:49
+#, php-format
+#@ mingle
+msgid "%1$s wants to be your Friend on %2$s"
+msgstr "%1$s chce byť Vaším priateľom na %2$s"
+
+#: classes/models/MnglNotification.php:70
+#: classes/models/MnglNotification.php:83
+#, php-format
+#@ mingle
+msgid "You're now friends with %1$s on %2$s!"
+msgstr "Teraz ste priatelia s %1$s na %2$s!"
+
+#: classes/models/MnglNotification.php:71
+#, php-format
+#@ mingle
+msgid "Visit %1$s to see %2$s profile."
+msgstr "Navštívte %1$s pre zobrazenie %2$s profilu."
+
+#: classes/models/MnglNotification.php:79
+#, php-format
+#@ mingle
+msgid "%1$s Has Confirmed Your Friend Request on %2$s"
+msgstr "%1$s potvrdil Vašu žiadosť o priateľstvo na %2$s"
+
+#: classes/models/MnglNotification.php:84
+#, php-format
+#@ mingle
+msgid "Visit %s to see %s profile."
+msgstr "Navštívte %s pre zobrazenie %s profilu."
+
+#: classes/models/MnglNotification.php:92
+#, php-format
+#@ mingle
+msgid "You're Now Friends With %1$s on %2$s"
+msgstr "Teraz ste priatelia s %1$s na %2$s"
+
+#: classes/models/MnglNotification.php:116
+#, php-format
+#@ mingle
+msgid "%1$s posted this on your Board at %2$s"
+msgstr "%1$s odoslal/a niečo na Vašu nástenku %2$s"
+
+#: classes/models/MnglNotification.php:117
+#, php-format
+#@ mingle
+msgid "Visit %s to see your Board"
+msgstr "Navštívte %s pre zobrazenie Vašej nástenky"
+
+#: classes/models/MnglNotification.php:125
+#, php-format
+#@ mingle
+msgid "%1$s Posted to Your Board on %2$s"
+msgstr "%1$s prispel/a na Vašu nástenku na %2$s"
+
+#: classes/models/MnglNotification.php:139
+#, php-format
+#@ mingle
+msgid "You were tagged in %1$s's post on %2$s's Board at %3$s"
+msgstr "Boli ste označený v %1$ príspevku na %2$s nástenke o %3$s"
+
+#: classes/models/MnglNotification.php:140
+#, php-format
+#@ mingle
+msgid "Visit %s to see the post you were tagged in."
+msgstr "Navštívte %s pre zobrazenie príspevku, v ktorom ste označený."
+
+#: classes/models/MnglNotification.php:148
+#, php-format
+#@ mingle
+msgid "You were tagged in a Post on %s"
+msgstr "Boli ste označený v príspevku na %s"
+
+#: classes/models/MnglNotification.php:194
+#, php-format
+#@ mingle
+msgid "%1$s commented on your Board Post on %2$s"
+msgstr "%1$s komentoval/a na Vašej nástenke na %2$s"
+
+#: classes/models/MnglNotification.php:195
+#: classes/models/MnglNotification.php:214
+#: classes/models/MnglNotification.php:230
+#, php-format
+#@ mingle
+msgid "View this comment from %1$s's Board at %2$s."
+msgstr "Ukázať komentár z %1$ nástenky v %2$s."
+
+#: classes/models/MnglNotification.php:204
+#, php-format
+#@ mingle
+msgid "%1$s commented on a Post on your Board on %2$s"
+msgstr "%1$s komentoval/a Váš príspevok na nástenke na %2$s"
+
+#: classes/models/MnglNotification.php:213
+#: classes/models/MnglNotification.php:223
+#, php-format
+#@ mingle
+msgid "%1$s commented on your Post on %2$s's Board on %3$s"
+msgstr "%1$s komentoval/a Váš príspevok na %2$s nástenke na %3$s"
+
+#: classes/models/MnglNotification.php:229
+#, php-format
+#@ mingle
+msgid "%1$s commented on %2$s's Board Post"
+msgstr "%1$s komentoval/a na %2$s nástenke"
+
+#: classes/models/MnglNotification.php:240
+#, php-format
+#@ mingle
+msgid "%1$s commented on %2$s's Board Post on %3$s"
+msgstr "%1$s komentoval/a ma %2$s nástenke na %3$s"
+
+#: classes/models/MnglNotification.php:257
+#, php-format
+#@ mingle
+msgid "You were tagged in %1$s's comment on %2$s's Board at %3$s"
+msgstr "Boli ste označený/á v %1$s komentári na %2$s nástenke v %3$s"
+
+#: classes/models/MnglNotification.php:258
+#, php-format
+#@ mingle
+msgid "Visit %s to see the comment you were tagged in."
+msgstr "Navštívte %s pre zobrazenie komentáru, v ktorom ste označený/á."
+
+#: classes/models/MnglNotification.php:266
+#, php-format
+#@ mingle
+msgid "You were tagged in a comment on %s"
+msgstr "Boli ste označený/á v komentári na %s"
+
+#: classes/models/MnglNotification.php:317
+#@ mingle
+msgid "Thanks!"
+msgstr "Ďakujeme!"
+
+#: classes/models/MnglNotification.php:318
+#, php-format
+#@ mingle
+msgid "%s Team"
+msgstr "%s Tím"
+
+#: classes/models/MnglNotification.php:319
+#, php-format
+#@ mingle
+msgid "If you want to stop future emails like this from coming to you, please modify your notification settings at %1$s or contact the system administrator at %2$s."
+msgstr "Ak už nechcete v budúcnosti dostávať emaily ako je tento. Upravte prosím nastavenia upozornení na %1$s alebo kontaktuje administrátora na %2$s."
+
+#: classes/models/MnglMessage.php:18
+#@ mingle
+msgid "Private Message"
+msgstr "Súkromná správa"
+
+#: classes/models/MnglMessage.php:19
+#@ mingle
+msgid "Sent when someone sends you a message"
+msgstr "Keď Vám niekto pošle správu"
+
+#: classes/models/MnglMessage.php:21
+#@ mingle
+msgid "Private Message Reply"
+msgstr "Odpoveď na súkromnú správu"
+
+#: classes/models/MnglMessage.php:22
+#@ mingle
+msgid "Sent when someone replies to a message you were included on"
+msgstr "Keď odpoviete na súkromnú správu"
+
+#: classes/models/MnglMessage.php:32
+#@ mingle
+msgid "(no subject)"
+msgstr "(bez predmetu)"
+
+#: classes/models/MnglMessage.php:228
+#@ mingle
+msgid "You can only send messages to your friends"
+msgstr "Správy môžete posielať len svojim priateľom"
+
+#: classes/models/MnglMessage.php:233
+#@ mingle
+msgid "There must be at least one valid recipient"
+msgstr "Musíte uviesť aspoň jedného prijímateľa správy"
+
+#: classes/models/MnglMessage.php:236
+#@ mingle
+msgid "Message can't be blank"
+msgstr "Nemôžete odoslať prázdnu správu"
+
+#: classes/models/MnglMessage.php:239
+#@ mingle
+msgid "Subject can't be blank"
+msgstr "Nemôžete odoslať správu bez predmetu"
+
+#: classes/models/MnglMessage.php:284
+#, php-format
+#@ mingle
+msgid "%s sent you a message."
+msgstr "%s Vám poslal/a správu."
+
+#: classes/models/MnglMessage.php:285
+#: classes/models/MnglMessage.php:314
+#, php-format
+#@ mingle
+msgid ""
+"To reply to this message, follow the link below:\n"
+"%s"
+msgstr ""
+"Ak chcete odpovedať, kliknite na odkaz nižšie:\n"
+"%s"
+
+#: classes/models/MnglMessage.php:296
+#, php-format
+#@ mingle
+msgid "%1$s sent you a message on %2$s..."
+msgstr "%1$s vám odoslal/a správu cez %2$s..."
+
+#: classes/models/MnglMessage.php:313
+#, php-format
+#@ mingle
+msgid "%s sent a message in reply to a thread."
+msgstr "%s reagoval/a vo vlákne."
+
+#: classes/models/MnglMessage.php:325
+#, php-format
+#@ mingle
+msgid "%1$s replied to a thread on %2$s..."
+msgstr "%1$s odpovedal/a vo vlákne %2$s..."
+
+#: classes/widgets/MnglUsersWidget.php:7
+#@ mingle
+msgid "Mingle Users Grid"
+msgstr "Mingle sieť užívateľov"
+
+#: classes/widgets/MnglUsersWidget.php:21
+#@ mingle
+msgid "Users"
+msgstr "Užívatelia"
+
+#: classes/widgets/MnglUsersWidget.php:51
+#@ mingle
+msgid "Mingle Users"
+msgstr "Užívatelia"
+
+#: classes/widgets/MnglLoginWidget.php:50
+#: classes/widgets/MnglUsersWidget.php:56
+#@ mingle
+msgid "Title"
+msgstr "Nadpis"
+
+#: classes/widgets/MnglUsersWidget.php:57
+#@ mingle
+msgid "# of Grid Columns"
+msgstr "Počet stĺpcov v mriežke"
+
+#: classes/widgets/MnglUsersWidget.php:58
+#@ mingle
+msgid "# of Grid Rows"
+msgstr "Počet riadkov v mriežke"
+
+#: classes/widgets/MnglUsersWidget.php:60
+#@ mingle
+msgid "Grid Type"
+msgstr "Mriežka"
+
+#: classes/widgets/MnglUsersWidget.php:62
+#@ mingle
+msgid "Random Mingle Users"
+msgstr "Náhodní užívatelia"
+
+#: classes/widgets/MnglUsersWidget.php:63
+#@ mingle
+msgid "Recent Mingle Users"
+msgstr "Nedávno registrovaní užívatelia"
+
+#: classes/widgets/MnglLoginWidget.php:7
+#@ mingle
+msgid "Mingle Login"
+msgstr "Mindle prihlásenie"
+

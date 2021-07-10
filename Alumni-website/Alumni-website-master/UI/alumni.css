@@ -1,0 +1,247 @@
+@font-face{
+	font-family: "Francois";
+	src: url("FrancoisOne-Regular.ttf");
+}
+@font-face{
+	font-family: "Monda";
+	src: url("Monda-Regular.ttf");
+}
+@font-face{
+	font-family: "Yrsa";
+	src: url("Amiri-Regular.ttf");
+}
+@font-face{
+	font-family: "Bitter";
+	src: url("Oswald-Bold.ttf");
+}
+@font-face{
+	font-family: "FiraSans";
+	src: url("FiraSansCondensed-SemiBold.ttf");
+}
+@font-face{
+	font-family: "Roboto";
+	src: url("RobotoCondensed-Regular.ttf");
+}
+.univ-logo{
+	height: 100%;
+}
+.mainnav{
+	background-color: #263238;
+	color: #D05728;
+}
+.navbar-default .navbar-nav > li > a,.navbar-default .navbar-nav > li > a:focus{
+
+	color: #FFF;
+}
+.navbar-default .navbar-nav > li > a:hover,.navbar-default .navbar-nav > .open > a:focus,.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover{
+color:#D05728;
+background-color: #263238;
+}
+.navbar{
+	margin: 0px;
+	border: 0px;
+	border-radius: 0px;
+}
+.cover{
+	height: 500px;
+	background-image: url("junction.jpg");
+	background-size: cover;
+}
+.covercont{
+	padding: 20vh;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(71,83,91,0.5);
+	text-align: center;
+}
+.covercont h1{
+	color:#FFF;
+	font-family: "Francois";
+	font-size: 10vh;
+}
+.covercont span{
+	color: #D05728;
+}
+.covercont a{
+	text-decoration: none;
+	background-color: #D05728;
+	color: #FFF;
+	border: solid 1px #D05728;
+	padding: 1vh;
+	opacity: 0.5;
+	border-radius: 2vh;
+	font-family: "Monda";
+}
+.covercont a:hover{
+    background-color: transparent;
+    opacity: 1;
+    color: #D05728;
+}
+.mainwrap{
+	background-color: #eceff1;
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+}
+.imagewrap img{
+ width: 100%;
+}
+.post{
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	background-color: #FFF;
+}
+.post hr{
+	border: solid 1px #D05728;
+}
+.post h1{
+	font-family: "FiraSans";
+}
+.post p{
+	font-family: "Yrsa";
+	font-size: 2.5vh;
+}
+.sidebar{
+	background-color: #FFF;
+	padding: 0px;
+}
+.sidebar h2{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 0px;
+    background-color: #455a64;
+    color: #FFF;
+    font-family: "Bitter";
+    text-align: center;
+}
+.innerSide{
+	padding: 1vh;
+	text-align: center;
+}
+.innerSide a{
+	text-decoration: none;
+	cursor: pointer;
+	font-family: "Roboto" ;
+	font-size: 2.5vh;
+}
+.innerSide a:hover{
+	color: #D05728;
+}
+.footer{
+	background-color: #263238;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	text-align: center;
+}
+.footer a{
+	text-decoration: none;
+	color: #FFF;
+}
+.mainContain{
+	background-image: url("KSC_5685.jpg");
+	background-size: cover;
+	height: 650px;
+	padding: 0px;
+}
+.formContain{
+	background-color: rgba(226,239,247,0.5);
+	padding: 75px;
+	color:#000;
+	border-radius: 10px;
+}
+.innerContain{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(22,33,40,0.6);
+}
+.logbtn{
+	background-color: transparent;
+	border: solid 1px #D05728;
+	color: #D05728;
+	font-weight: bold;
+}
+.logbtn:hover{
+	border: solid 1px #D05728;
+	background-color: rgba(208,87,40,0.5);
+	color: #FFF;
+}
+.form-group{
+	font-family: "Roboto";
+}
+.logowrap{
+	border-right: solid 1px #FFF;
+	height: 200px;
+}
+.formContain h1{
+	color: #D05728;
+	text-align: center;
+	font-family: "Bitter";
+}
+.mainContains{
+	background-image: url("KSC_5685.jpg");
+	background-size: cover;
+	height: 900px;
+	padding: 0px;
+}
+.sign-contain{
+	text-align: center;
+}
+.formContain hr{
+	border: solid 1px #D05728;
+	width: 70%;
+}
+.profWrap{
+	height: 300px;
+	padding: 0px;
+}
+.propic{
+	overflow: hidden;
+	position: relative;
+	height: 100%;
+    padding: 0px;
+}
+.propic img{
+	height: 100%;
+	width: 100%;
+}
+.mainDet{
+	font-family: "Francois";
+	font-weight: bold;
+	background-color: rgba(0,0,0,0.4);
+	height: 100%;
+	color: #FFF;
+}
+.contactWrap{
+	text-align: center;
+    color: #FFF;
+}
+.contactWrap div{
+	padding: 10px;
+	background-color:  #263238;
+}
+.thread hr{
+	border: solid 0.5px #D05728;
+}
+.thread a{
+	color: #919191;
+}
+.replies{
+	padding: 0px;
+	margin-top: 0px;
+}
+.reply{
+	height: 150pxs;
+	padding: 10px;
+	margin-bottom: 10px; 
+	background-color: #FCFCFC;
+}
+.nameWrap{
+	border-right: solid 1px #D05728;
+    height: 120px;
+    font-family: "Roboto";
+}
+.nameWrap p{
+	color: #919191;
